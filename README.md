@@ -1,0 +1,2 @@
+# Wiederstandscode
+Calculator for resistors
