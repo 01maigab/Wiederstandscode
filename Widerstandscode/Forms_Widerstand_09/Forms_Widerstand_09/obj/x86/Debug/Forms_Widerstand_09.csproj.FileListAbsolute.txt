@@ -7,5 +7,3 @@ C:\Users\01maigab\AppData\Local\Temporary Projects\Forms_Widerstand_09\obj\x86\D
 C:\Users\01maigab\AppData\Local\Temporary Projects\Forms_Widerstand_09\obj\x86\Debug\Forms_Widerstand_09.pdb
 H:\Eigene Dokumente\Visual Studio 2010\Projects\Forms_Widerstand_09\Forms_Widerstand_09\obj\x86\Debug\Forms_Widerstand_09.exe
 H:\Eigene Dokumente\Visual Studio 2010\Projects\Forms_Widerstand_09\Forms_Widerstand_09\obj\x86\Debug\Forms_Widerstand_09.pdb
-H:\Eigene Dokumente\Git\Widerstandscode\Forms_Widerstand_09\Forms_Widerstand_09\obj\x86\Debug\Forms_Widerstand_09.exe
-H:\Eigene Dokumente\Git\Widerstandscode\Forms_Widerstand_09\Forms_Widerstand_09\obj\x86\Debug\Forms_Widerstand_09.pdb
